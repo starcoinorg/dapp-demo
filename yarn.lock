@@ -8062,8 +8062,9 @@ stackframe@^1.1.1:
   resolved "https://registry.npm.taobao.org/stackframe/download/stackframe-1.2.0.tgz#52429492d63c62eb989804c11552e3d22e779303"
   integrity sha1-UkKUktY8YuuYmATBFVLj0i53kwM=
 
-"starcoin-typescript-sdk@file:../starcoin-sdk":
+starcoin-typescript-sdk@starcoinorg/starcoin-typescript-sdk#master:
   version "1.0.0"
+  resolved "https://codeload.github.com/starcoinorg/starcoin-typescript-sdk/tar.gz/8fcb39196b3a23612491a5c562deee4b4be866ce"
   dependencies:
     "@ethersproject/bignumber" "^5.0"
     "@open-rpc/client-js" "^1.6.0"
