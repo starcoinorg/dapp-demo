@@ -1,6 +1,9 @@
 # dapp-demo
 
+Starcoin dapp demo.
+
 ## Project setup
+
 ```
 yarn install
 ```
@@ -9,6 +12,8 @@ yarn install
 ```
 yarn serve
 ```
+
+I recommend vue-cli to start the build server.
 
 ### Compiles and minifies for production
 ```
